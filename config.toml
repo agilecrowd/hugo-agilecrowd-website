@@ -1,6 +1,6 @@
 baseurl = "http://agilecrowd.org/"
 languageCode = "en-us"
-title = "Agilecrowd community"
+title = "Agilecrowd community｜行合 社区"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -45,7 +45,7 @@ googleAnalytics = ""
 
 
 [[menu.main]]
-	name   = "Agilecrowd"
+	name   = "Agilecrowd | 行合社区"
 	url    = "/"
 	weight = 0
 
